@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ixukiidu.github.io/iJk/sitemap_index.txt
+Sitemap: https://ixukiidu.github.io/kby/sitemap_index.txt
+Sitemap: https://ixukiidu.github.io/xYw/sitemap_index.txt
+Sitemap: https://ixukiidu.github.io/ykT/sitemap_index.txt
